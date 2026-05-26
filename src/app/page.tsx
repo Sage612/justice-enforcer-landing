@@ -116,7 +116,7 @@ export default function Home() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://top.gg/bot/that-justice-enforcer"
+              href="https://top.gg/bot/1508259021180637306"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg gradient-bg text-white font-semibold px-8 py-6 text-lg hover:opacity-90 transition-opacity glow">
@@ -262,7 +262,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row justify-center gap-4">
                 <a
-                  href="https://top.gg/bot/that-justice-enforcer"
+                  href="https://top.gg/bot/1508259021180637306"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 whitespace-nowrap rounded-lg gradient-bg text-white font-semibold px-8 py-6 text-lg hover:opacity-90 transition-opacity">
@@ -270,7 +270,7 @@ export default function Home() {
                   <ArrowRight className="ml-2 h-5 w-5" />
                 </a>
                 <a
-                  href="https://top.gg/bot/that-justice-enforcer"
+                  href="https://top.gg/bot/1508259021180637306"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium rounded-lg border border-white/15 bg-white/5 text-foreground px-8 py-6 text-lg hover:bg-white/10 transition-colors">
@@ -309,7 +309,7 @@ export default function Home() {
               Discord
             </a>
             <a
-              href="https://top.gg/bot/that-justice-enforcer"
+              href="https://top.gg/bot/1508259021180637306"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-foreground transition-colors">
