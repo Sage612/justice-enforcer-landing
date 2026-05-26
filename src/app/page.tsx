@@ -124,7 +124,7 @@ export default function Home() {
               <ArrowRight className="ml-2 h-5 w-5" />
             </a>
             <a
-              href="https://discord.gg/compicfy"
+              href="https://discord.gg/7WPGMb696N"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium rounded-lg border border-white/15 bg-white/5 text-foreground px-8 py-6 text-lg hover:bg-white/10 transition-colors">
